@@ -19,3 +19,11 @@ Python 3.6 or higher installed on your system.
 
 Basic knowledge of Python programming and financial markets.
 
+Key Features of " Trading Assistant":
+
+Full Historical Data Retrieval: Fetches extensive historical stock data since the company's listing.
+Technical Indicator Analysis: Computes indicators like RSI, MACD, and SMA for informed decision-making.
+AI-Based Trade Recommendations: Provides trade suggestions with associated risk assessments.
+Automated Trade Execution: Facilitates placing orders with optional stop-loss and take-profit parameters.
+Voice Command Trading: Enables executing trades through voice inputs.
+AI Chatbot for Market Insights: Answers market-related queries using OpenAI's language model.
